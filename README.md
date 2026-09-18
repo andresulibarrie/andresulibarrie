@@ -13,16 +13,28 @@ Investigador Doctoral de CONICET enfocado en eco-informática, análisis espacia
 # 💻 Tech Stack:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
+# 🔬 Featured Projects & Repositories
 
-# 🔬 Proyectos y Repositorios Clave
+#### 🐍 [Humid Chaco Snakes: Functional Traits & Environmental Filtering](https://github.com/andresulibarrie/chaco_snakes_functional_traits)
+> **Community Ecology & Functional Traits** | *PhD Research*
 
-- **[Nombre del Repo de Tesis / R Scripts]:** Flujos de trabajo reproducibles en R para análisis filogenéticos comunitarios y métricas de diversidad funcional.
-- **[Nombre de otro Repo / Paquete / Script]:** Scripts de procesamiento de capas raster/vectoriales y análisis ecomorfológicos.
+Assessment of environmental filtering mechanisms structuring snake assemblages across the Humid Chaco ecoregion of Argentina.
+- 🛠️ **Methods & Tools:** Fourth-Corner Analysis, functional diversity metrics, R spatial workflows.
+- 📁 **Repository:** Full reproducible dataset, statistical scripts, and analytical pipeline.
+
+---
+
+#### 🦊 [Aguará Guazú: Spatial Suitability & Species Distribution Modeling](https://github.com/andresulibarrie/Tesina)
+> **Spatial Ecology & Habitat Suitability** | *BSc Thesis & Publication*
+
+Evaluation of environmental drivers shaping the geographic distribution of the maned wolf (*Chrysocyon brachyurus*) in central Argentina. Includes the codebase for the published paper *"Spatial distribution of environmental suitability for the maned wolf in central Argentina"*.
+- 🛠️ **Methods & Tools:** Species Distribution Models (SDMs), spatial data processing, QGIS & R.
+- 📁 **Repository:** Spatial processing scripts, model calibration workflows, and spatial predictors.
 
 ---
 
 
-### ✍️
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---

@@ -42,6 +42,3 @@ Evaluation of environmental drivers shaping the geographic distribution of the m
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://komarev.com/ghpvc/?username=andresulibarrie&icon=0&color=0)](https://visitcount.itsvg.in)
-
